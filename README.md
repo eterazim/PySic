@@ -2,7 +2,7 @@
 ![Screenshot](icon.png)
 
 <p align="center">
-  # PySic
+  PySic
   </p>
 
 <p align="center">
