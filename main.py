@@ -49,5 +49,5 @@ for i in range(len(cogs)):
   cogs[i].setup(client)
 
        
-client.run("ODg4MTU2MTU2NTU0NTM5MDA5.YUOl4A.C9229nIltRQIMeCjItuCB-itJaM")
+client.run("TOKEN GOES HERE (LMAO YOU THOUGHT)")
 
