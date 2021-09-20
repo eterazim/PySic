@@ -2,5 +2,7 @@
 ![Screenshot](icon.png)
 
 
-#                                                                             PySic
-                                       PySic is a discord bot made in python, that is made for a private discord server
+<p align="center">
+  # PySic
+  Pysic is a discord bot made in python made after the music bots were shut down it was made orginally to replace these music bots but became more than that over time
+  </p>
