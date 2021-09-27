@@ -57,5 +57,5 @@ for i in range(len(cogs)):
   cogs[i].setup(client)
 
        
-client.run("ODg4MTU2MTU2NTU0NTM5MDA5.YUOl4A.11zvUODkXZt2zFKYa1uep0MQ09Q")
+client.run("You thought lamooooo")
 
